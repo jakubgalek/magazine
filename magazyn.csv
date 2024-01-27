@@ -1,0 +1,17 @@
+identyfikator,cena,dataPrzyjecia,ilosc,kategoria,producent,model,dataProdukcji,procesor,ram,kartaGraficzna,dysk,czasPracy,typMatrycy,ukladKlawiatury,klawiaturaNum,zewnKlawiatura,typObudowy,standardPlytyGlownej
+T01,3299,05.10.2023,2,Laptop,HP,HP17-cn3053,10.12.2023,Intel i5,16,Iris Xe Graphics,512,8,IPS 17.3 Mat,qwerty,Tak,N\A,N\A,N\A
+T02,3890,17.10.2023,5,Laptop,Lenovo,Thinkbook,18.12.2022,Intel i5,32,Iris Xe Graphics,256,10,IPS 15.6'' Mat,qwerty,Tak,N\A,N\A,N\A
+T03,5196,10.05.2023,7,Laptop,HP,ProBook 470 G9,15.12.2022,Intel i7,16,Iris Xe Graphics,512,8,IPS 17.3'' Mat,qwerty,Tak,N\A,N\A,N\A
+T04,2669,24.09.2023,7,Laptop,HP,HP EliteBook 840 G7,10.11.2022,Intel i5,16,Intel UHD Graphics,256,12,IPS 14'' Mat,qwerty,Nie,N\A,N\A,N\A
+T05,3219,14.05.2023,2,Laptop,Asus,VivoBook Pro 15,12.02.2022,Intel i5,8,NVIDIA GTX 1050,256,7,IPS 15.6'' Mat,qwerty,Tak,N\A,N\A,N\A
+T06,899,04.07.2023,1,Tablet,Samsung,Galaxy Tab A8,10.02.2023,Unisonc T618,4,Mali G72,64,10,LCD 10.5'',N\A,N\A,Nie,N\A,N\A
+T07,1095,19.08.2023,9,Tablet,Samsung,Galaxy Tab A9,15.09.2022,Qualcomm Snapdragon 695,4,N/A,64,8,TFT 11'',N\A,N\A,Nie,N\A,N\A
+T08,749,25.07.2023,12,Tablet,Xiaomi,Redmi Pad SE,14.06.2023,Qualcomm Snapdragon 680,4,Adreno 610,64,8,Full HD 11'',N\A,N\A,Nie,N\A,N\A
+T09,889,23.10.2023,1,Tablet,Lenovo,Tab M10 Plus,09.08.2022,Qualcomm Snapdragon 680,4,Adreno 610,128,7,IPS 11'',N\A,N\A,Tak,N\A,N\A
+T10,799,15.04.2023,5,Tablet,Samsung,Galaxy Tab S7,01.02.2023,Qualcomm Snapdragon 865+,6,Adreno 650,256,8,Super AMOLED 11'',N\A,N\A,Tak,N\A,N\A
+T11,4998,25.11.2023,7,Stacjonarny,HP,OMEN 25L,09.10.2022,Intel i7,16,GeForce RTX 3070,512,N\A,N\A,N\A,N\A,N\A,Pionowa,ATX
+T12,4795,17.05.2023,9,Stacjonarny,HP,Elite 600 G9,24.09.2022,Intel i7,16,Intel UHD Graphics,512,N\A,N\A,N\A,N\A,N\A,Pozioma,ATX
+T13,2099,19.06.2023,4,Stacjonarny,Lenovo,ThinkCentre Neo 50s,05.08.2022,Intel i3,8,Intel UHD Graphics,256,N\A,N\A,N\A,N\A,N\A,Pionowa,ATX
+T14,2461,08.10.2023,2,Stacjonarny,Asus,Vist,12.07.2022,AMD Ryzen 7 5700G,32,Radeon RX Vega 8,1000,N\A,N\A,N\A,N\A,N\A,Pionowa,ATX
+T15,3699,12.11.2023,1,Stacjonarny,Lenovo,V50t-131MB,23.10.2022,Intel i7,8,Intel UHD 630,512,N\A,N\A,N\A,N\A,N\A,Pozioma,ATX
+33,3,01.01.1583,0,,,,01.01.1583,,0,,0,3,3,N\A,N\A,3,N\A,N\A
